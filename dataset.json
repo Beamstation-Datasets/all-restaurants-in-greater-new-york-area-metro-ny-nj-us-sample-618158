@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census for the Greater New York metropolitan area spanning New York and New Jersey. Covers one of the world's most diverse and competitive dining markets with data on every active listing in the Restaurants category group. Includes business profiles, ratings, review sentiment, and competitive rankings. Refreshed weekly.",
+  "config_name": "All Restaurants in Greater New York Area (Metro), NY-NJ, US",
+  "export_job_id": "05a3874d-43cb-42c0-a297-ba1e5ef7b120",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 618158,
+  "location_name": "New York-Newark-Jersey City, NY-NJ",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-greater-new-york-area-metro-ny-nj-us-sample-618158",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/618158/beamstation_618158_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
+  "sample_pct": 2.1,
+  "sample_records": 1000,
+  "sample_sha256": "d6194d360439a3085e6b506a62bf326abfee5388af12178b20ddb978707e7dc5",
+  "sample_size_bytes": 3035239,
+  "total_records": 47609,
+  "updated_at": "2026-04-09T20:06:52.995933+00:00"
+}
