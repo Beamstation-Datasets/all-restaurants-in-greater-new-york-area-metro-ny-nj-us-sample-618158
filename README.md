@@ -9,9 +9,9 @@
 | Dataset ID | `618158` |
 | Location | New York-Newark-Jersey City, NY-NJ |
 | Category | Restaurants |
-| Full dataset size | 47,609 records |
-| Free sample size | 1,000 records (2.1%) |
-| Last export | 2026-04-09T20:06:52.995933+00:00 |
+| Full dataset size | 47,284 records |
+| Free sample size | 1,000 records (2.11%) |
+| Last export | 2026-04-16T23:41:50.904528+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-new-york-area-metro-ny-nj-us-sample-618158/releases/download/sample-latest/beamstation_618158_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
