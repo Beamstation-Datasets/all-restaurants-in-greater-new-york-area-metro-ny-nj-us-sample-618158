@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bc21909d-30a8-40a6-9177-72e58211d663",
+  "export_job_id": "6ac303b9-3df1-4d41-a2d8-47afdce5b40d",
   "id_short": 618158,
-  "published_at": "2026-04-19T19:39:04Z",
+  "published_at": "2026-04-23T19:55:39Z",
   "repo_name": "all-restaurants-in-greater-new-york-area-metro-ny-nj-us-sample-618158",
   "sample_asset_name": "beamstation_618158_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/618158/beamstation_618158_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "1b4c7c0db2136be2e8b9b99d8eb1548279eef07dbde20536aa2ef74ec4dcbbab",
-  "sample_size_bytes": 3070944,
-  "total_records": 47284
+  "sample_sha256": "49cd1bc4beb657e283167a439b0c8988d691bb14fa360fde8179e324c50ed798",
+  "sample_size_bytes": 3075090,
+  "total_records": 42408
 }
